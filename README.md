@@ -8,7 +8,7 @@ Consiste no estudo de séries temporais referentes à medições realizadas o TC
 
 ## Enunciados
 
-Os enunciados dos exercícios propostos enconta-se [neste link](http://portal.if.usp.br/controle/sites/portal.if.usp.br.ifusp/files/EstudoDirigido.pdf)
+Os enunciados dos exercícios propostos encontam-se [neste link](http://portal.if.usp.br/controle/sites/portal.if.usp.br.ifusp/files/EstudoDirigido.pdf)
 
 ## Dados utilizados
 
