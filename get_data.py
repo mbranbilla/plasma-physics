@@ -1,8 +1,6 @@
 import requests
 import os
 import pandas as pd
-import seaborn as sns
-
 
 path_to_save = 'data/'
 links_to_extract = {
